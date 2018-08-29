@@ -1,4 +1,4 @@
-import { React } from 'react';
+import React from 'react';
 import { Button as RebassButton } from 'rebass';
 
 const Button = props => <RebassButton children={props.title}/>;
