@@ -1,6 +1,6 @@
 {
   "name": "vph_react_ui_lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React UI lib for demo",
   "main": "build/index.js",
   "scripts": {
