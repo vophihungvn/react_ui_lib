@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "test": "npm test",
-    "build": "babel src -d build",
+    "build": "babel lib -d build",
     "prepublish": "npm run build"
   },
   "repository": {
@@ -38,5 +38,8 @@
     "babel-preset-stage-0": "^6.24.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
+  },
+  "directories": {
+    "lib": "./lib"    
   }
 }
