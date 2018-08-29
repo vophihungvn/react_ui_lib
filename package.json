@@ -1,6 +1,6 @@
 {
   "name": "vph_react_ui_lib",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "React UI lib for demo",
   "main": "build/index.js",
   "scripts": {
@@ -40,6 +40,6 @@
     "react-dom": "^16.4.2"
   },
   "directories": {
-    "lib": "./lib"    
+    "lib": "./lib"
   }
 }
