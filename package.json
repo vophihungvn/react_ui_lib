@@ -5,8 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "test": "npm test",
-    "build": "babel lib -d build",
-    "prepublish": "npm run build"
+    "build": "babel lib -d build"
   },
   "repository": {
     "type": "git",
